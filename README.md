@@ -13,10 +13,10 @@ Explore my CodeChef journey: [[CodeChef Profile Link]](https://www.codechef.com/
 
 ## Hashtags
 Follow the journey using these hashtags:
--  #75daysofCodechef
--  #CodingJourney
--  #CodeChefChallenge
--  #CodeNewbie
--  #LearningEveryDay
+ #75daysofCodechef
+  #CodingJourney
+ #CodeChefChallenge
+  #CodeNewbie
+  #LearningEveryDay
 
 Let's level up our coding skills together! 💻🔥
