@@ -9,7 +9,7 @@ Welcome to my coding journey! 🚀 In this repository, I tackle CodeChef problem
 💡 Gain insights into my coding thought process and contribute your solutions.
 
 ## CodeChef Profile
-Explore my CodeChef journey: [[CodeChef Profile Link]](https://www.codechef.com/users/code_maestro)
+Explore my CodeChef journey: [CodeChef Profile](https://www.codechef.com/users/code_maestro)
 
 ## Hashtags
 Follow the journey using these hashtags:
